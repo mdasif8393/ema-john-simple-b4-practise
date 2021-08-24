@@ -1,0 +1,19 @@
+.product-container{
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+
+}
+
+.product-container h3{
+    color: blue;
+    font-weight: 400;
+}
+
+.product-container button{
+    height: 30px;
+    width: 120px;
+    background-color: goldenrod;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
